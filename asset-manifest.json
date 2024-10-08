@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DataPrivacy/static/css/main.e6c13ad2.css",
+    "main.js": "/DataPrivacy/static/js/main.476485e0.js",
+    "static/js/453.0611f45e.chunk.js": "/DataPrivacy/static/js/453.0611f45e.chunk.js",
+    "index.html": "/DataPrivacy/index.html",
+    "main.e6c13ad2.css.map": "/DataPrivacy/static/css/main.e6c13ad2.css.map",
+    "main.476485e0.js.map": "/DataPrivacy/static/js/main.476485e0.js.map",
+    "453.0611f45e.chunk.js.map": "/DataPrivacy/static/js/453.0611f45e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.476485e0.js"
+  ]
+}
